@@ -1,0 +1,13 @@
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.log
+tests/*.exe
+tests/*.o
+RTE/_*/
+tastek_page.html
+tastek_files.json
+ocr.ps1
+keilkill.bat
